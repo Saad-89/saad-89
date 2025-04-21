@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Saad Yaqoob
 
-<!--
-**Saad-89/saad-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Flutter Developer passionate about crafting beautiful mobile experiences
 
-Here are some ideas to get you started:
+## ✨ Quick Facts
+- 🚀 Flutter Developer @ Techorphic Pvt Limited
+- 🌱 Building apps with MVVM architecture & Firebase
+- 💡 1.5+ years of professional experience
+- ☕ Cricket champion who codes with passion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
+
+## 💼 Projects
+- **YoYo Apps** - Educational platform with speech analysis
+- **VVM Vet** - Veterinary care with video consultations
+- **Indie Mobile** - Netflix-style streaming application
+- **Dividend App** - Investment tracking in React Native
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-yaqoob)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadyaqoob595@gmail.com)
