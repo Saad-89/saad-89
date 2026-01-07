@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saad Yaqoob
 
-> Mobile and web Developer passionate about crafting beautiful mobile experiences
+> Mobile and web Developer passionate about crafting beautiful experiences
 
 ## ✨ Quick Facts
 - 🚀 Flutter Developer / Web Developer
